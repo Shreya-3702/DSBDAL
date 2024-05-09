@@ -63,7 +63,7 @@ b. Load table with data from local storage in Hive.
 
 CREATION OF FILES IN ANOTHER TERMINAL 
 (content of file example - 
-	customer_info.txt
+	data_customer_info.txt
 
 	1,John Doe,1001
 	2,Jane Smith,1002
