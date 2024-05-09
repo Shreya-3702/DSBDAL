@@ -92,7 +92,7 @@ IN TERMINAL 2 -
 
 hive> create external table flighthive (
     > flight_id INT,
-    > delay_mins STRING,
+    > delay_mins INT,
     > size INT,
     > source STRING,
     > dest STRING,
